@@ -1,0 +1,27 @@
+body {
+background: rgb(255,255,255);
+background-image: url("files/background.png");
+background-size: cover;
+color: rgb(255,85,85);
+max-width: 100%;
+overflow-x: hidden;
+font-family: 'mania';
+text-align: center-left;
+text-shadow: 2px 2px 0px rgb(255,255,255);
+}
+img {
+  border-radius:27%;
+}
+footer {
+  font-family: 'Mania';
+  display: block;
+  text-align: center;
+  padding: 9px;
+  color: black;
+}
+@font-face {
+    font-family: Mania;
+    src: url("files/mania.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
