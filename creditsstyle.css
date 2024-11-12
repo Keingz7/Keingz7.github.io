@@ -1,0 +1,19 @@
+footer {
+  font-family: 'Mania';
+  display: block;
+  text-align: center;
+  padding: 9px;
+  color: white;
+}
+@font-face {
+    font-family: Andes;
+    src: url("files/s2titlecard.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+	font-family: Mania;
+    src: url("files/s1hud.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
