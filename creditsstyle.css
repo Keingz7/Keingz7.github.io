@@ -1,3 +1,11 @@
+body {
+background: black;
+background-size: cover;
+color: white;
+max-width: 100%;
+font-family: 'Gaslight';
+text-align: center;
+}
 footer {
   font-family: 'Mania';
   display: block;
@@ -7,7 +15,7 @@ footer {
 }
 @font-face {
     font-family: Andes;
-    src: url("files/s2titlecard.ttf") format('truetype');
+    src: url("files/s2titlecards.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }
