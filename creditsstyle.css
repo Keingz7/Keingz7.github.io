@@ -8,7 +8,7 @@ text-align: center;
 }
 @font-face {
     font-family: s3k;
-    src: url("credits/s3k-titlecards.ttf") format('truetype');
+    src: url("/s3k-titlecards.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }

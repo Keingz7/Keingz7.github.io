@@ -1,11 +1,11 @@
 body {
 background: rgb(255,255,255);
-background-image: url("main/background.png");
+background-image: url("/background.png");
 background-size: cover;
 color: rgb(200,0,0);
 max-width: 100%;
 overflow-x: hidden;
-font-family: 'mania';
+font-family: 's1';
 text-align: center-left;
 text-shadow: 2px 2px 0px rgb(255,255,255);
 }
@@ -21,7 +21,7 @@ footer {
 }
 @font-face {
     font-family: s1;
-    src: url("main/s1hud.ttf") format('truetype');
+    src: url("/s1hud.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }
