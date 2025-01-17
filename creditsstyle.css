@@ -7,6 +7,9 @@ max-width: 100%;
 font-family: 's3k';
 text-align: center;
 }
+img {
+  border-radius:27%;
+}
 @font-face {
     font-family: s3k;
     src: url("/s3k-titlecards.ttf") format('truetype');
