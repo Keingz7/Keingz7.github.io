@@ -3,12 +3,12 @@ background: black;
 background-size: cover;
 color: white;
 max-width: 100%;
-font-family: 'S2HUD';
+font-family: 's3k';
 text-align: center;
 }
 @font-face {
-    font-family: S2HUD;
-    src: url("files/s2hud.ttf") format('truetype');
+    font-family: s3k;
+    src: url("credits/s3k-titlecards.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }
