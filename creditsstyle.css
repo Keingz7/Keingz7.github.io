@@ -1,12 +1,13 @@
 body {
 background: rgb(255,255,255);
 background-image: url("/creditsbackground.png");
-background-size: contain;
+background-size: cover;
+overflow-x: hidden;
 color: #ffffff;
 max-width: 100%;
-overflow-x: hidden;
 font-family: 's3k';
-text-align: center;
+text-align: center-left;
+text-shadow: 2px 2px 0px rgb(64 64 64);
 }
 @font-face {
     font-family: s3k;
