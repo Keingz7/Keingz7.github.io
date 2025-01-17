@@ -6,6 +6,13 @@ max-width: 100%;
 font-family: 'Gaslight';
 text-align: center;
 }
+footer {
+  font-family: 'Gaslight';
+  display: block;
+  text-align: center;
+  padding: 9px;
+  color: white;
+}
 @font-face {
     font-family: Gaslight;
     src: url("files/s2titlecards.ttf") format('truetype');
