@@ -3,19 +3,12 @@ background: black;
 background-size: cover;
 color: white;
 max-width: 100%;
-font-family: 'Gaslight';
+font-family: 'S2HUD';
 text-align: center;
 }
-footer {
-  font-family: 'Gaslight';
-  display: block;
-  text-align: center;
-  padding: 9px;
-  color: white;
-}
 @font-face {
-    font-family: Gaslight;
-    src: url("files/s2titlecards.ttf") format('truetype');
+    font-family: S2HUD;
+    src: url("files/s2hud.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }
