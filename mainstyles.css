@@ -2,26 +2,26 @@ body {
 background: rgb(255,255,255);
 background-image: url("/mainbackground.gif");
 background-size: cover;
-color: rgb(200,0,0);
+color: rgb(255,190,190);
 max-width: 100%;
 overflow-x: hidden;
 overflow-y: hidden;
-font-family: 's1';
+font-family: 'sm';
 text-align: center-left;
-text-shadow: 2px 2px 0px rgb(255,255,255);
+text-shadow: 2px 2px 0px rgb(245,96,96);
 }
 img {
   border-radius:27%;
 }
 footer {
-  font-family: 's1';
+  font-family: 'sm';
   display: block;
   text-align: center;
   padding: 9px;
   color: black;
 }
 @font-face {
-    font-family: s1;
+    font-family: sm;
     src: url("/SM.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
