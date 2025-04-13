@@ -2,12 +2,12 @@ body {
 background: rgb(255,255,255);
 background-image: url("/mainbackground.gif");
 background-size: cover;
-color: rgb(255,190,190);
+color: rgb(149,0,255);
 max-width: 100%;
 overflow-x: hidden;
 font-family: 'sm';
 text-align: center-left;
-text-shadow: 2px 2px 0px rgb(245,96,96);
+text-shadow: 2px 2px 0px rgb(168,130,226);
 }
 img {
   border-radius:27%;
